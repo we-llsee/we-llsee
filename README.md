@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Will Clegg
+
+I am a junior full-stack developer who is currently looking for a job. If you would like to discuss an opportunity then please get in touch with me over Linkedin: [https://www.linkedin.com/in/williamclegg](https://www.linkedin.com/in/williamclegg)
+
+Current Tech Skills: Node.js | PSQL | MongoDB | Express | React | CSS
+Looking To Learn: ...Open to Anything! I learnt French so come at me!
+
+I'm a mostly happy Mac user (barring the price and recent MacOS privacy incursions) and am currently thinking of ways I can make my life easier, keep your eyes out 👀 for projects coming soon.
+
+Would love to get involved with a privacy project...where you been hiding?? 
+
 
 <!--
 **we-llsee/we-llsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
