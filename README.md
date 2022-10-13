@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Will Clegg
 
-I am a junior full-stack developer who is currently looking for a job. If you would like to discuss an opportunity then please get in touch with me over Linkedin: [https://www.linkedin.com/in/williamclegg](https://www.linkedin.com/in/williamclegg)
+I am a junior full-stack developer! 
+<!--- who is currently looking for a job. If you would like to discuss an opportunity then please get in touch with me over Linkedin: [https://www.linkedin.com/in/williamclegg](https://www.linkedin.com/in/williamclegg) --->
 
 Current Tech Skills: Node.js | PSQL | MongoDB | Express | React | CSS<br />
 Looking To Learn: ...Open to Anything!
